@@ -28,7 +28,7 @@ This Personal Task Tracker is a clean, user-friendly application that allows use
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/personal-task-tracker.git
+   git clone https://github.com/YashPanwar1408/task-tracker.git
    cd personal-task-tracker
    ```
 
@@ -78,7 +78,7 @@ task-tracker/
 
 ## 🔗 Live Demo
 
-[View Live Application](https://your-username.github.io/personal-task-tracker)
+[View Live Application](https://task-tracker-three-amber.vercel.app/)
 
 ## 🖼 Screenshots
 
@@ -130,13 +130,5 @@ const sampleTasks = [
 - [ ] Smooth animations/transitions
 - [ ] Dark mode toggle
 - [ ] Task categories/tags
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 **Note**: This application was built as part of an internship assignment to demonstrate React.js skills and frontend development capabilities.
